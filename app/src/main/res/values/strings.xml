@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MailDetox</string>
+    <string name="slogan">Let\'s start protecting the environment</string>
+    <string name="banner">Banner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
